@@ -1,5 +1,9 @@
 package dam.m11.pruebasArrays;
-
+/**
+ * 
+ * @author 21844380
+ *clase pojo de pruebas arrays
+ */
 public class PruebasArrays {
 
 	public static void main(String[] args) {
